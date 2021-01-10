@@ -52,7 +52,29 @@ div .navbar-brand {
   .col-lg-6 h1, .col-lg-6 h5 {
     text-align: center;
   }
+  h1 {
+    font-size: 5rem!important;
+  }
+  h2 {
+    font-size: 4rem!important;
+  }
+  h3 {
+    font-size: 3rem!important;
+  }
+  h5 {
+    font-size: 2rem!important;
+  }
+  p {
+    font-size: 1rem!important;
+  }
+  .navbar-brand {
+    font-size: 1rem!important;
+  }
+  .navbar-link {
+    font-size: 1rem!important;
+  }
 }
+
 
 /* MY EDUCATION SECTION */
 #my-education {
